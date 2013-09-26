@@ -1,0 +1,10 @@
+C:\Users\ahri\Dropbox\Programmering\Unity\PorGame\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\ahri\Dropbox\Programmering\Unity\PorGame\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\ahri\Dropbox\Programmering\Unity\PorGame\Temp\bin\Debug\UnityEditor.dll
+C:\Users\ahri\Dropbox\Programmering\Unity\PorGame\Temp\bin\Debug\UnityEngine.dll
+C:\Users\ahri\Dropbox\Programmering\Unity\PorGame\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\ahri\Dropbox\Programmering\Unity\PorGame\Temp\bin\Debug\nunit.framework.dll
+C:\Users\ahri\Dropbox\Programmering\Unity\PorGame\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\ahri\Dropbox\Programmering\Unity\PorGame\obj\Debug\Assembly-CSharp-firstpass-vs.csprojResolveAssemblyReference.cache
+C:\Users\ahri\Dropbox\Programmering\Unity\PorGame\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\ahri\Dropbox\Programmering\Unity\PorGame\obj\Debug\Assembly-CSharp-firstpass.pdb
